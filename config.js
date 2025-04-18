@@ -10,7 +10,7 @@ module.exports = {
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
   embedColor: "#1db954",
-  activityName: "{membercount}", 
+  activityName: "FELIX TEAM", 
   activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
   SupportServer: "https://discord.gg/uc-1111272495497101372",
   embedTimeout: 5, 
