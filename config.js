@@ -12,7 +12,7 @@ module.exports = {
   embedColor: "#1db954",
   activityName: "{membercount}", 
   activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
-  SupportServer: "https://discord.gg/xQF9f9yUEM",
+  SupportServer: "https://discord.gg/uc-1111272495497101372",
   embedTimeout: 5, 
   errorLog: "", 
   nodes: [
