@@ -1,5 +1,5 @@
 module.exports = {
-    footer: "Entwickelt von SSRR | Prime Music v1.2",
+    footer: "Entwickelt von FELIX TEAM |  Music v1.2",
     ping: {
       description: "Prüfe die Bot-Latenz",
       response: "Ping wird gemessen...",
