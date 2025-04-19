@@ -58,8 +58,5 @@ module.exports = async (client) => {
         let currentActivityIndex = 0;
         let currentStatusIndex = 0;
 
-       
-        let apiOverride = {
-            activity: null,
-            status: null,
+      
         };
