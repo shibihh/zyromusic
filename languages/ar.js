@@ -8,7 +8,7 @@ module.exports = {
         responseTime: "- وقت استجابة البوت: **{latency}ms**",
         websocketPing: "- تأخير WebSocket: **{ping}ms**",
         uptime: "- مدة التشغيل: **{uptime}**",
-        footer: "SSRR تم التطوير بواسطة | Prime Music v1.2"
+        footer: "FELIX TEAM تم التطوير بواسطة |  Music v1.2"
       }
     },
     addsong: {
