@@ -1,5 +1,5 @@
 module.exports = {
-    footer: "SSRR により開発 | Prime Music v1.2",
+    footer: "FELIX TEAM により開発 |  Music v1.2",
     ping: {
       description: "ボットの応答時間を確認",
       response: "応答時間を計測中...",
