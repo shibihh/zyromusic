@@ -1,5 +1,5 @@
 module.exports = {
-    footer: "SSRR이(가) 개발 | Prime Music v1.2",
+    footer: "FELIX TEAM이(가) 개발 |  Music v1.2",
     ping: {
       description: "봇 지연 시간 확인",
       response: "지연 시간 측정 중...",
