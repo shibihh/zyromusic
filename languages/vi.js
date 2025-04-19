@@ -8,7 +8,7 @@ module.exports = {
         responseTime: "- Thời gian phản hồi của bot: **{latency}ms**",
         websocketPing: "- Độ trễ WebSocket: **{ping}ms**",
         uptime: "- Thời gian hoạt động: **{uptime}**",
-        footer: "Phát triển bởi SSRR | Prime Music v1.2"
+        footer: "Phát triển bởi FELIX TEAM |  Music v1.2"
       }
     },
     addsong: {
