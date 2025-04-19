@@ -1,5 +1,5 @@
 module.exports = {
-    footer: "SSRR تم التطوير بواسطة | Prime Music v1.2",
+    footer: "FELIX TEAM تم التطوير بواسطة | Music v1.2",
     ping: {
       description: "فحص تأخير البوت",
       response: "جاري قياس التأخير...",
