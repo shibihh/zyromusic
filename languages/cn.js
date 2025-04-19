@@ -1,5 +1,5 @@
 module.exports = {
-    footer: "由 SSRR 开发 | Prime Music v1.2",
+    footer: "由 FELIX TEAM 开发 |  Music v1.2",
     ping: {
       description: "检查机器人延迟",
       response: "正在测试延迟...",
