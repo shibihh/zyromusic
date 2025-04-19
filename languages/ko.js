@@ -8,7 +8,7 @@ module.exports = {
         responseTime: "- 봇 응답 시간: **{latency}ms**",
         websocketPing: "- WebSocket 핑: **{ping}ms**",
         uptime: "- 가동 시간: **{uptime}**",
-        footer: "SSRR이(가) 개발 | Prime Music v1.2"
+        footer: "FELIX TEAM이(가) 개발 |  Music v1.2"
       }
     },
     addsong: {
