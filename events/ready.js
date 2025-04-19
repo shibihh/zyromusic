@@ -52,11 +52,3 @@ module.exports = async (client) => {
 
     client.errorLog = config.errorLog;
 };
-
- const statuses = ['idle', 'dnd'];
-
-        let currentActivityIndex = 0;
-        let currentStatusIndex = 0;
-
-      
-        };
