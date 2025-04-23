@@ -14,7 +14,7 @@ module.exports = {
   activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
   SupportServer: "https://discord.gg/uc-1111272495497101372",
   embedTimeout: 5, 
-  errorLog: "", 
+  errorLog: "1364529489786310726", 
   nodes: [
      {
       name: "SHIBIHHHH",
